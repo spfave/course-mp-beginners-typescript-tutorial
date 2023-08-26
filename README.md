@@ -1,6 +1,15 @@
-<a href="https://totaltypescript.com"><img src="./og-image.png" /></a>
+<a href="https://totaltypescript.com/tutorials/beginners-typescript"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1664461034/beginners-typescript-tutorial/github_2x_himnyi.png" alt="beginner typescript tutorial" /></a>
 
 ## Quickstart
+
+Take the course on [Total TypeScript](https://totaltypescript.com/tutorials/beginners-typescript). There, you'll find:
+
+- Video explanations for each problem and solution
+- Transcripts
+- Text explanations
+- A built-in Stackblitz editor
+
+## Installation Instructions
 
 Clone this repo or [open in Gitpod](https://gitpod.io/#https://github.com/total-typescript/beginners-typescript).
 
@@ -14,10 +23,6 @@ npm run exercise 01
 # Runs linting and tests on the solution
 npm run solution 01
 ```
-
-## Video Walkthrough
-
-I walked through the first few exercises on [VSCode's live stream](https://www.youtube.com/watch?v=p6dO9u0M7MQ)! The plan for these exercises is to develop them into a full workshop, and then bundle them into the full video course - [Total TypeScript](https://totaltypescript.com).
 
 ## How to take the course
 
